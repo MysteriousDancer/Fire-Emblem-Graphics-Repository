@@ -1,0 +1,11 @@
+# [\[Lyn-Reskin\] \[F\] Kawaii Blader by Yangfly]
+
+## Credit
+
+Made by Yangfly Master.
+	
+## Unarmed
+
+| Still | Animation |
+| :---: | :-------: |
+| ![Unarmed still](./Unarmed_000.png) | ![Unarmed animation](./Unarmed.gif) |
